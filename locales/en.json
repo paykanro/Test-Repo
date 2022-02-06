@@ -1,0 +1,48 @@
+{
+    "global": {
+        "404": "Record not found!",
+        "emptyRequiredFiled": "Required fields are empty.",
+        "notFound": "There are no results.",
+        "serverInternalError": "An internal server error has occurred.",
+        "accessDenied": "User does not have access.",
+        "noContent": "there are no results.",
+        "unAuth": "Operation is not possible.",
+        "requiredFiled": "Required filed is empty!"
+    },
+    "auth": {
+        "successfullLogin": "You have successfully logged in.",
+        "userCreated": "Your registration was successful.",
+        "invalidRequest": "Invalid request (required fields are empty)",
+        "wrongLoginInfo": "Username or password is incorrect.",
+        "userNotFound": "User not found!",
+        "duplicateUser": "A user with this information is available in the system.",
+        "resetPswMail": "An email containing a password change confirmation code will be sent to you.",
+        "logOut": "You have successfully logged out.",
+        "wrongResetPswCode": "The code is not valid.",
+        "resetPsw": "Enter a new password.",
+        "successResetPsw": "Your password has been updated.",
+        "newTokenCreated": "New token created.",
+        "accessDenied": "User does not have access."
+    },
+    "user": {
+        "duplicateUser": "A user with this information is available in the system.",
+        "notFound": "User not found.",
+        "wrongPassword": "Password is incorrect!",
+        "successAvatarUpload": "Avatar uploaded successfully.",
+        "avatarDeleted": "Avatar removed."
+    },
+    "link": {
+        "invalidURL": "Entered URL is not valid. Please recheck the URL link.",
+        "created": "Shortened link has been generated successfully;",
+    	"Deleted": "Your Link Deleted."
+	},
+	"tempLink": {
+		"created": "Temporary Link Created."
+	},
+	"category": {
+		"created" : "New category created.",
+		"deleted" : "Your category deletd",
+		"updated" : "Your Category updated",
+		"getMyList": "Your list of category returned"
+	}
+}
