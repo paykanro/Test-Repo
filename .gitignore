@@ -1,0 +1,14 @@
+.idea
+node_modules
+.vscode
+.DS_Store
+package-lock.json
+server.iml
+npm-debug.log
+.env
+tempFiles
+public/upload
+.documnets/
+documnets/
+.documnets
+documnets
